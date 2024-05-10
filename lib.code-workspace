@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "wechat",
+			"path": "."
+		},
+		{
+			"path": "../../../Desktop/flutter_git/WeChat/images"
+		}
+	],
+	"settings": {}
+}
